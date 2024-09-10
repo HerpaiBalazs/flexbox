@@ -1,0 +1,27 @@
+  body{
+   height: 100vh;
+   width:100vw;
+  }
+    .container{
+    width: 100vw;
+    height: 300px;
+    display: flex;
+    flex-direction: row;
+ }
+ 
+   
+     
+       
+ .zold{
+       background-color: green;
+      flex: 0.8;
+      }
+      .sarga{
+       background-color: yellow;
+       flex: 1.4;
+      }
+      .lila{
+       background-color: purple;
+       flex:0.8;
+    
+      }
